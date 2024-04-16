@@ -1,3 +1,4 @@
+#DATA STRUCTURES
 HEAPS
 
 A Heap is a complete binary Tree Structure that satisfies the heap property in that the largest or smallest element is the root node of the tree and the rest are descendants
